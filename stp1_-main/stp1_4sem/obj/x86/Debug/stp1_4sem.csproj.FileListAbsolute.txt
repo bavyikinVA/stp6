@@ -1,0 +1,37 @@
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\stp6\stp1_4sem\stp1_4sem\bin\Debug\stp1_4sem.exe
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\stp6\stp1_4sem\stp1_4sem\bin\Debug\stp1_4sem.pdb
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\stp6\stp1_4sem\stp1_4sem\obj\x86\Debug\stp1_4sem.Form1.resources
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\stp6\stp1_4sem\stp1_4sem\obj\x86\Debug\stp1_4sem.Properties.Resources.resources
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\stp6\stp1_4sem\stp1_4sem\obj\x86\Debug\stp1_4sem.csproj.GenerateResource.Cache
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\stp6\stp1_4sem\stp1_4sem\obj\x86\Debug\stp1_4sem.exe
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\stp6\stp1_4sem\stp1_4sem\obj\x86\Debug\stp1_4sem.pdb
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\stp6\stp1_4sem\stp1_4sem\obj\x86\Debug\stp1_4sem.csprojResolveAssemblyReference.cache
+C:\Users\bavyk\source\STP\stp1_4sem\stp1_4sem\obj\x86\Debug\stp1_4sem.csproj.AssemblyReference.cache
+C:\Users\bavyk\source\STP\stp1_4sem\stp1_4sem\obj\x86\Debug\stp1_4sem.Form1.resources
+C:\Users\bavyk\source\STP\stp1_4sem\stp1_4sem\obj\x86\Debug\stp1_4sem.Form2.resources
+C:\Users\bavyk\source\STP\stp1_4sem\stp1_4sem\obj\x86\Debug\stp1_4sem.Properties.Resources.resources
+C:\Users\bavyk\source\STP\stp1_4sem\stp1_4sem\obj\x86\Debug\stp1_4sem.csproj.GenerateResource.cache
+C:\Users\bavyk\source\STP\stp1_4sem\stp1_4sem\obj\x86\Debug\stp1_4sem.csproj.CoreCompileInputs.cache
+C:\Users\bavyk\source\STP\stp1_4sem\stp1_4sem\obj\x86\Debug\stp1_4sem.exe
+C:\Users\bavyk\source\STP\stp1_4sem\stp1_4sem\obj\x86\Debug\stp1_4sem.pdb
+C:\Users\bavyk\source\STP\stp1_4sem\stp1_4sem\bin\Debug\stp1_4sem.exe
+C:\Users\bavyk\source\STP\stp1_4sem\stp1_4sem\bin\Debug\stp1_4sem.pdb
+C:\Users\Александр\Downloads\stp1_-main\stp1_-main\stp1_4sem\obj\x86\Debug\stp1_4sem.exe
+C:\Users\Александр\Downloads\stp1_-main\stp1_-main\stp1_4sem\obj\x86\Debug\stp1_4sem.pdb
+C:\Users\Александр\Downloads\stp1_-main\stp1_-main\stp1_4sem\obj\x86\Debug\stp1_4sem.Form1.resources
+C:\Users\Александр\Downloads\stp1_-main\stp1_-main\stp1_4sem\obj\x86\Debug\stp1_4sem.Form2.resources
+C:\Users\Александр\Downloads\stp1_-main\stp1_-main\stp1_4sem\obj\x86\Debug\stp1_4sem.Properties.Resources.resources
+C:\Users\Александр\Downloads\stp1_-main\stp1_-main\stp1_4sem\obj\x86\Debug\stp1_4sem.csproj.GenerateResource.Cache
+C:\Users\Александр\Downloads\stp1_-main\stp1_-main\stp1_4sem\bin\Debug\stp1_4sem.exe
+C:\Users\Александр\Downloads\stp1_-main\stp1_-main\stp1_4sem\bin\Debug\stp1_4sem.pdb
+C:\Users\Александр\Downloads\stp1_-main\stp1_-main\stp1_4sem\obj\x86\Debug\stp1_4sem.csprojResolveAssemblyReference.cache
+C:\Users\bavyk\source\STP\stp1_-main\stp1_4sem\bin\Debug\stp1_4sem.exe
+C:\Users\bavyk\source\STP\stp1_-main\stp1_4sem\bin\Debug\stp1_4sem.pdb
+C:\Users\bavyk\source\STP\stp1_-main\stp1_4sem\obj\x86\Debug\stp1_4sem.csproj.AssemblyReference.cache
+C:\Users\bavyk\source\STP\stp1_-main\stp1_4sem\obj\x86\Debug\stp1_4sem.Form1.resources
+C:\Users\bavyk\source\STP\stp1_-main\stp1_4sem\obj\x86\Debug\stp1_4sem.Form2.resources
+C:\Users\bavyk\source\STP\stp1_-main\stp1_4sem\obj\x86\Debug\stp1_4sem.Properties.Resources.resources
+C:\Users\bavyk\source\STP\stp1_-main\stp1_4sem\obj\x86\Debug\stp1_4sem.csproj.GenerateResource.cache
+C:\Users\bavyk\source\STP\stp1_-main\stp1_4sem\obj\x86\Debug\stp1_4sem.csproj.CoreCompileInputs.cache
+C:\Users\bavyk\source\STP\stp1_-main\stp1_4sem\obj\x86\Debug\stp1_4sem.exe
+C:\Users\bavyk\source\STP\stp1_-main\stp1_4sem\obj\x86\Debug\stp1_4sem.pdb
